@@ -1,0 +1,6 @@
+class program{
+void main(){
+}
+
+
+}
